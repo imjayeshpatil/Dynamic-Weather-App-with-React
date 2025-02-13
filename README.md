@@ -1,3 +1,20 @@
+
+
+🔹 Tech Stack Used:
+✅ ReactJS & JavaScript ⚛️ | ✅ Weather API 🌎 | ✅ HTML & CSS 🎨
+#Weather APP Home Page that you can see
+🔹 Key Features:
+✔️ Real-time weather updates 🌡️
+✔️ Temperature (Smoke), Humidity, Visibility, Wind Speed 🌬️
+✔️ Current location & time tracking 📍⏰
+✔️ User-friendly and responsive UI 📱
+✔️ Fetches temperature, humidity, wind speed & more ✅
+✔️ Reliable & optimized for accuracy ⚡
+
+![Screenshot (325)](https://github.com/user-attachments/assets/ded8da5c-fa5c-4941-b232-8173aa802530)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
